@@ -2,7 +2,7 @@ export const profile = {
   name: 'Sunil Pal', title: 'Aspiring AI/ML Engineer', email: 'sunilsn2005@gmail.com',
   location: 'India', graduation: 2027, degree: 'Bachelor of Technology', branch: 'Artificial Intelligence & Machine Learning',
   github: 'https://github.com/sunilsn2005-source', linkedin: 'https://www.linkedin.com/in/sunil-pal-927310324',
-  leetcode: 'https://leetcode.com/u/PALSUN/', resume: null as string | null, photo: null as string | null,
+  leetcode: 'https://leetcode.com/u/sunil_pal', resume: null as string | null, photo: null as string | null,
   institution: null as string | null,
   supporting: 'Building practical technology solutions through programming, web development, and continuous learning.',
 };

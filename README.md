@@ -27,7 +27,7 @@ All profile details, social links, skills, projects, and workshop entries are in
 - Both projects: actual technologies, implemented features, contribution, screenshots, repository and live-demo URLs.
 - Smart Attendance System: verified category and specific problem addressed.
 - Workshops: official titles, dates, issuing organizations, course/workshop format, certificate images or credential links.
-- LeetCode URL confirmation: the brief supplies both `sunil_pal` and `PALSUN`; the repeated Coding Profiles URL `PALSUN` is currently used.
+- LeetCode URL confirmed: the portfolio now uses `https://leetcode.com/u/sunil_pal`.
 - Optional internship, achievements, hackathons, or open-source details are omitted until provided.
 
 Project visuals are labeled concept illustrations, not screenshots. The processor illustration is generated abstract artwork, not a fabricated portrait. No affiliation with Razorpay or real payment functionality is implied.
